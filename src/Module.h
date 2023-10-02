@@ -2,7 +2,7 @@
 #define _LORALIB_MODULE_H
 
 #include <SPI.h>
-
+#include <Particle.h>
 #include "TypeDef.h"
 
 #define SPI_READ  0b00000000

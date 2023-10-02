@@ -1,4 +1,7 @@
 #include "Module.h"
+#include <Particle.h>
+#include <stdint.h>
+
 
 Module::Module(int cs, int int0, int int1, SPIClass& spi) {
   // save pins numbers to private global variables

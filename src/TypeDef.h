@@ -1,11 +1,13 @@
 #ifndef _LORALIB_TYPES_H
 #define _LORALIB_TYPES_H
 
+/*
 #if ARDUINO >= 100
   #include "Arduino.h"
 #else
   #error "Unsupported Arduino version (< 1.0.0)"
 #endif
+*/
 
 /*
  * Uncomment to enable debug output.

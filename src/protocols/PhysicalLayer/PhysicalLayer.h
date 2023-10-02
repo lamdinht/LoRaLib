@@ -2,6 +2,8 @@
 #define _RADIOLIB_PHYSICAL_LAYER_H
 
 #include "../../TypeDef.h"
+#include <Particle.h>
+#include <stdint.h>
 
 /*!
   \class PhysicalLayer

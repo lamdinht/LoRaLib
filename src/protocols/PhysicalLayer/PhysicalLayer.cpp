@@ -1,4 +1,5 @@
 #include "PhysicalLayer.h"
+#include "Arduino.h"
 
 PhysicalLayer::PhysicalLayer(float crysFreq, uint8_t divExp, size_t maxPacketLength) {
   _crystalFreq = crysFreq;
